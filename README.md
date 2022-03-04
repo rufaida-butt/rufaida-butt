@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rufaida-butt
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Git, Github and Flutter
-- 💞️ I’m looking to collaborate on a job in a Flutter project
+- 💞️ I’m looking to collaborate in a Flutter project
 - 📫 How to reach me:
 - Phone: +966545707035
 - E-mail: rufaida-butt@hotmail.com
